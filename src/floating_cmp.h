@@ -2,7 +2,6 @@
 #define RCT_FLOATING_CMP
 
 #include <algorithm>
-#include <cfloat>
 #include <cmath>
 #include <limits>
 #include <type_traits>
